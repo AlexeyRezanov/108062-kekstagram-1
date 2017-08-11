@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Резанов](https://up.htmlacademy.ru/javascript/10/user/108062).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
